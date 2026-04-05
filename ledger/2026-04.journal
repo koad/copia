@@ -105,3 +105,17 @@
 ; Reserve: CAD 787.00 of CAD 1,000.00 ceiling
 ; Revenue to date: CAD 0.00
 ; Status: two line items (Pro prorated + Max net charge) marked TODO — confirm with koad
+
+; === MAX 20x UPGRADE (2026-04-05) ===
+; koad upgraded from Claude Max 5x to Claude Max 20x during Day 6
+; Max 20x = 2x the price of Max 5x, 20x the compute ceiling
+; CAD ~200/month going forward (exact figure: confirm with koad from Anthropic billing)
+2026-04-05 Anthropic — Claude Max 20x (upgrade from Max 5x)
+    expenses:ai:anthropic                CAD 60.00   ; incremental upgrade cost (200 - 140), TODO: confirm exact
+    liabilities:creditcard              CAD -60.00
+
+; === REVISED RECURRING (from 2026-05 onward) ===
+; Claude Max 20x: CAD ~200.00/month (replaces Max 5x at CAD 140)
+; Net budget impact: +CAD 60/month vs. previous plan
+; Approved allocation for ai:anthropic was CAD 200 — this fits within allocation
+; No budget ceiling breach
