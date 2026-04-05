@@ -97,3 +97,11 @@
 ;   - Reassess based on April revenue
 ;   - Exa paid tier decision (~CAD 68/mo)
 ;   - X API revisit if stage-and-submit fails
+
+; === REPORT GENERATED ===
+; 2026-04-05 — Copia generated first formal budget report: reports/2026-04-day6.md
+; Provisional actual: CAD 140.00 (pending koad confirmation from Anthropic billing)
+; Committed if all approved subscriptions activate: CAD 213.00
+; Reserve: CAD 787.00 of CAD 1,000.00 ceiling
+; Revenue to date: CAD 0.00
+; Status: two line items (Pro prorated + Max net charge) marked TODO — confirm with koad
