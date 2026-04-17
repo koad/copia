@@ -10,6 +10,13 @@
 - **Email:** copia@kingofalldata.com
 - **Repository:** github.com/koad/copia
 
+## Custodianship
+
+- **Creator:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian type:** sole
+- **Scope authority:** full
+
 ## Role
 
 Financial tracking, accounting, and budget stewardship for the koad:io kingdom.

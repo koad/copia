@@ -2,5 +2,9 @@
   "outfit": {
     "h": 23,
     "s": 61
+  },
+  "dispatch": {
+    "color": "yellow",
+    "model": "sonnet"
   }
 }
