@@ -6,5 +6,7 @@
   "dispatch": {
     "color": "yellow",
     "model": "sonnet"
-  }
+  },
+  "handle": "copia",
+  "name": "Copia"
 }
